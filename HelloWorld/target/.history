@@ -1,0 +1,4 @@
+var capital = Map("US" -> "Washington", "France" -> "Paris")
+val capital = Map("US" -> "Washington", "France" -> "Paris")
+var capital = Map("US" -> "Washington", "France" -> "Paris")
+run

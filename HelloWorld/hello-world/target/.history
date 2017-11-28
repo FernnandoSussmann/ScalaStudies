@@ -1,0 +1,5 @@
+~run
+exit
+~run
+scala
+println("Hello")
